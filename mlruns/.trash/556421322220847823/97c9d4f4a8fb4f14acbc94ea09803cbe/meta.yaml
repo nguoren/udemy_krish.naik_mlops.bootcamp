@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/556421322220847823/97c9d4f4a8fb4f14acbc94ea09803cbe/artifacts
+deleted_time: 1731078646064
+end_time: 1731051584199
+entry_point_name: ''
+experiment_id: '556421322220847823'
+lifecycle_stage: deleted
+run_id: 97c9d4f4a8fb4f14acbc94ea09803cbe
+run_name: bald-bear-103
+run_uuid: 97c9d4f4a8fb4f14acbc94ea09803cbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731051584145
+status: 3
+tags: []
+user_id: ng_gu
