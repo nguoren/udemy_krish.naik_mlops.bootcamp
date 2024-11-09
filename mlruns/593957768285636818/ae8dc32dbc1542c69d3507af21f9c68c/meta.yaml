@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593957768285636818/ae8dc32dbc1542c69d3507af21f9c68c/artifacts
+end_time: 1731121832140
+entry_point_name: ''
+experiment_id: '593957768285636818'
+lifecycle_stage: active
+run_id: ae8dc32dbc1542c69d3507af21f9c68c
+run_name: learned-fawn-505
+run_uuid: ae8dc32dbc1542c69d3507af21f9c68c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731121829164
+status: 3
+tags: []
+user_id: ng_gu
