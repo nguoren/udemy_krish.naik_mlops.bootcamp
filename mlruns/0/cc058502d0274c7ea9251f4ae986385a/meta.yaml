@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cc058502d0274c7ea9251f4ae986385a/artifacts
+end_time: 1731802790524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc058502d0274c7ea9251f4ae986385a
+run_name: intrigued-shoat-572
+run_uuid: cc058502d0274c7ea9251f4ae986385a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731802775168
+status: 4
+tags: []
+user_id: ng_gu

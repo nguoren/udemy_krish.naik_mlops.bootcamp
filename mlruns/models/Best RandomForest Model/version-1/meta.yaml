@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731804083822
+current_stage: None
+description: ''
+last_updated_timestamp: 1731804083822
+name: Best RandomForest Model
+run_id: 4e82a75859ca43f0b6189d95382fa013
+run_link: ''
+source: file:///c:/Users/ng_gu/OneDrive/Desktop/Learning/udemy_krish.naik_mlops.bootcamp/mlruns/164333881622137948/4e82a75859ca43f0b6189d95382fa013/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ng_gu/OneDrive/Desktop/Learning/udemy_krish.naik_mlops.bootcamp/mlruns/164333881622137948/4e82a75859ca43f0b6189d95382fa013/artifacts/model
+user_id: null
+version: 1

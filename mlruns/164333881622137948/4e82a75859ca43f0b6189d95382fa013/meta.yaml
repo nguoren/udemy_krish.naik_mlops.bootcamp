@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ng_gu/OneDrive/Desktop/Learning/udemy_krish.naik_mlops.bootcamp/mlruns/164333881622137948/4e82a75859ca43f0b6189d95382fa013/artifacts
+end_time: 1731804083891
+entry_point_name: ''
+experiment_id: '164333881622137948'
+lifecycle_stage: active
+run_id: 4e82a75859ca43f0b6189d95382fa013
+run_name: receptive-cub-777
+run_uuid: 4e82a75859ca43f0b6189d95382fa013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731803778228
+status: 3
+tags: []
+user_id: ng_gu
