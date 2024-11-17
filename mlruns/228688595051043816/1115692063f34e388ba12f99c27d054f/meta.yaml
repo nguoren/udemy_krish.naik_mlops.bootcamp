@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/228688595051043816/1115692063f34e388ba12f99c27d054f/artifacts
+end_time: 1731802637794
+entry_point_name: ''
+experiment_id: '228688595051043816'
+lifecycle_stage: active
+run_id: 1115692063f34e388ba12f99c27d054f
+run_name: spiffy-calf-339
+run_uuid: 1115692063f34e388ba12f99c27d054f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731802633760
+status: 3
+tags: []
+user_id: ng_gu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/661018408865014373/9bb5b137b5a547cbaf8a79c673d264e9/artifacts
+end_time: 1731802642066
+entry_point_name: ''
+experiment_id: '661018408865014373'
+lifecycle_stage: active
+run_id: 9bb5b137b5a547cbaf8a79c673d264e9
+run_name: indecisive-toad-673
+run_uuid: 9bb5b137b5a547cbaf8a79c673d264e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731802637927
+status: 3
+tags: []
+user_id: ng_gu

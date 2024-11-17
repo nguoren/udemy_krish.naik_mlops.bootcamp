@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/661018408865014373/ccd7ce6dc8404b1881ef6f6b1564e6ae/artifacts
+end_time: 1731802633430
+entry_point_name: ''
+experiment_id: '661018408865014373'
+lifecycle_stage: active
+run_id: ccd7ce6dc8404b1881ef6f6b1564e6ae
+run_name: invincible-cod-206
+run_uuid: ccd7ce6dc8404b1881ef6f6b1564e6ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731802626401
+status: 3
+tags: []
+user_id: ng_gu
